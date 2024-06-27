@@ -1,41 +1,41 @@
 // import prisma from '@/lib/prisma';
 // import { Prisma } from '@prisma/client';
-import logger from './logger/logger';
+// import logger from './logger/logger';
 
 export async function executeTaskByInterval() {
-    if (!process.env.JOB_INTERVAL_MINUTES) {
-        logger.error('JOB_INTERVAL_MINUTES is not provided.')
-        return
-    }
+    // if (!process.env.JOB_INTERVAL_MINUTES) {
+    //     logger.error('JOB_INTERVAL_MINUTES is not provided.')
+    //     return
+    // }
 
-    if (!process.env.JOB_DELAY_MINUTES) {
-        logger.error('JOB_DELAY_MINUTES is not provided.')
-        return
-    }
+    // if (!process.env.JOB_DELAY_MINUTES) {
+    //     logger.error('JOB_DELAY_MINUTES is not provided.')
+    //     return
+    // }
 
-    logger.info('Started scheduled store procedure task.')
+    // logger.info('Started scheduled store procedure task.')
 
-    const JOB_INTERVAL_MINUTES = parseInt(process.env.JOB_INTERVAL_MINUTES)
-    const JOB_DELAY_MINUTES = parseInt(process.env.JOB_DELAY_MINUTES)
+    // const JOB_INTERVAL_MINUTES = parseInt(process.env.JOB_INTERVAL_MINUTES)
+    // const JOB_DELAY_MINUTES = parseInt(process.env.JOB_DELAY_MINUTES)
 
-    const task = async () => {
-        // const now = new Date()
-        // const { startTime, endTime } = getTimeRange(now, JOB_INTERVAL_MINUTES, JOB_DELAY_MINUTES)
+    // const task = async () => {
+    //     const now = new Date()
+    //     const { startTime, endTime } = getTimeRange(now, JOB_INTERVAL_MINUTES, JOB_DELAY_MINUTES)
 
-        // const rawSQL = Prisma.sql`
-        //     call job_execute(${startTime}::timestamp, ${endTime}::timestamp);
-        // `
+    //     const rawSQL = Prisma.sql`
+    //         call job_execute(${startTime}::timestamp, ${endTime}::timestamp);
+    //     `
 
-        // try {
-        //     const result = await prisma.$executeRaw(rawSQL)
-        //     logger.info('Executed store procedure successfully.')
-        // } catch (error) {
-        //     logger.error('Store procedure job failed:', error)
-        // }
-    }
+    //     try {
+    //         const result = await prisma.$executeRaw(rawSQL)
+    //         logger.info('Executed store procedure successfully.')
+    //     } catch (error) {
+    //         logger.error('Store procedure job failed:', error)
+    //     }
+    // }
 
-    task()
-    setInterval(task, JOB_INTERVAL_MINUTES * 60 * 1000);
+    // task()
+    // setInterval(task, JOB_INTERVAL_MINUTES * 60 * 1000);
 }
 
 function getTimeRange(now: Date, intervalMinutes: number, delayMinutes: number) {

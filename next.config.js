@@ -1,9 +1,9 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
     // output: 'standalone',
-    experimental: {
-        instrumentationHook: true,
-    },
+    // experimental: {
+    //     instrumentationHook: true,
+    // },
     redirects: async () => {
         return [
             {
