@@ -1,0 +1,7 @@
+{
+    "functionFailoverRegions": [
+        "hkg1",
+        "sin1",
+        "iad1"
+    ]
+}
