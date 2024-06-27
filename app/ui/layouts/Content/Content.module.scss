@@ -1,0 +1,16 @@
+.main-content-layouts {
+    left: 18.75rem;
+    top: 5rem;
+    position: fixed;
+    width: calc(100vw - 18.8rem);
+    height: calc(100vh - 5rem);
+    overflow: auto;
+    flex: 1;
+    padding: 0.75rem 1.5rem 0.75rem;
+    transition: all 0.3s ease;
+}
+
+.content-expanded {
+    left: 4.6875rem;
+    width: calc(100vw - 4.8rem);
+}

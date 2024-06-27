@@ -1,0 +1,74 @@
+.container {
+    position: relative;
+    display: grid;
+    column-gap: 10px;
+    grid-template-columns: repeat(2, 1fr);
+    border-radius: 0.3125rem;
+    border-top-left-radius: 0;
+    padding: 10px;
+    overflow: auto;
+    height: 100%;
+}
+
+.no-wafer-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 0.3125rem;
+    background-color: rgba(224, 219, 219, 0.492);
+    cursor: pointer;
+    position: relative;
+}
+
+.transparent {
+    background-color: #ffffff;
+    border: 0.125rem solid #04203c;
+    border-radius: 0.3125rem;
+}
+
+.date-picker {
+    grid-column: span 2;
+    margin-bottom: 0 !important;
+}
+
+.label {
+    border-radius: 0.3125rem;
+    position: absolute;
+    padding: 5px 10px;
+    top: -33px;
+    font-size: 14px;
+    color: white;
+}
+
+.error {
+    position: absolute;
+    color: red;
+    top: -25px;
+    right: 0;
+}
+
+.recipe-error {
+    position: absolute;
+    color: red;
+    top: 210px;
+    left: 10px;
+}
+
+.red {
+    color: red;
+}
+
+.close-button-container {
+    position: absolute;
+    top: 0.8rem;
+    right: 0.8rem;
+}
+
+.first-empty-error-msg {
+    color: #ff6b6b;
+    position: absolute;
+    top: 170px;
+    font-size: 0.9rem;
+    max-width: 90%;
+}

@@ -1,0 +1,41 @@
+.slider-container {
+    width: 100%;
+}
+
+.slider {
+    -webkit-appearance: none;
+    width: 100%;
+    outline: none;
+    opacity: 0.5;
+}
+
+.slider::-webkit-slider-runnable-track {
+    height: 2px;
+}
+
+.slider::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    appearance: none;
+    width: 1.5rem;
+    height: 1.5rem;
+    margin-top: -17px;
+    cursor: pointer;
+}
+
+.wafer1-mark::-webkit-slider-thumb {
+    background: url('/slider-mark-1.svg');
+    background-repeat: no-repeat;
+}
+
+.wafer2-mark::-webkit-slider-thumb {
+    background: url('/slider-mark-2.svg');
+    background-repeat: no-repeat;
+}
+
+.slider::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+}

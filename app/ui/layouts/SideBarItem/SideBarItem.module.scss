@@ -1,0 +1,51 @@
+.navigate-container {
+    display: flex;
+    position: relative;
+}
+
+.text-expanded {
+    display: inline;
+    margin-left: 0.5rem;
+    font-size: 1rem;
+    white-space: nowrap;
+    opacity: 1;
+    transition: opacity 0.3s linear;
+}
+
+.text-collapse {
+    display: inline;
+    white-space: nowrap;
+    visibility: hidden;
+    opacity: 0;
+}
+
+.outer-layer {
+    display: block;
+    padding: 0.9375rem 1rem 0.9375rem 1.5rem;
+    margin: auto;
+    cursor: pointer;
+}
+
+.outer-layer:hover {
+    background-color: #b0c4de;
+}
+
+.nav-active {
+    background-color: #b0c4de;
+}
+
+.alert-count {
+    background-color: red;
+    font-size: small;
+    padding: 1px 5px;
+    border-radius: 5px;
+    position: absolute;
+    top: -10px;
+    left: 18px;
+}
+
+.alert-expanded {
+    left: auto;
+    right: 8px;
+    top: auto;
+}

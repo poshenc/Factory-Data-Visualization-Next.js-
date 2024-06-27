@@ -1,0 +1,30 @@
+.container {
+    position: relative;
+    display: grid;
+    column-gap: 10px;
+    grid-template-columns: repeat(2, 1fr);
+    border: 0.125rem solid #04203c;
+    border-radius: 0.3125rem;
+    padding: 10px;
+    overflow: auto;
+    height: 16rem;
+}
+
+.date-picker {
+    grid-column: span 2;
+    margin-bottom: 0 !important;
+}
+
+.error {
+    position: absolute;
+    color: red;
+    top: 225px;
+    left: 10px;
+}
+
+.recipe-error {
+    position: absolute;
+    color: red;
+    top: 210px;
+    left: 10px;
+}

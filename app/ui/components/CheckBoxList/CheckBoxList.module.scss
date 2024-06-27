@@ -1,0 +1,62 @@
+.container {
+    position: relative;
+    border: 0.125rem solid #04203c;
+    border-radius: 0.3125rem;
+    width: 100%;
+    height: 100%;
+    box-sizing: border-box;
+    margin-bottom: 40px;
+}
+
+.header {
+    border-top-right-radius: 0.3125rem;
+    border-top-left-radius: 0.3125rem;
+    background-color: #e8ecec;
+    padding: 0.6875rem 1.25rem 0.625rem 1.25rem;
+    font-size: 1.125rem;
+    font-family: NotoSansTC-Bold;
+    width: 100%;
+    box-sizing: border-box;
+    border-bottom: 0.125rem solid #04203c;
+}
+
+.items-container {
+    height: calc(100% - 95px);
+    overflow: auto;
+}
+
+.error-message {
+    color: red;
+    font-size: 0.875rem;
+    position: absolute;
+    bottom: -20px;
+}
+
+.asterisk {
+    margin-left: 0.25rem;
+    color: red;
+}
+
+.search-container {
+    position: relative;
+    width: 100%;
+    height: 45px;
+    border-bottom: 0.125rem solid #04203C;
+
+    .icon {
+        position: absolute;
+        top: 6px;
+        right: 20px;
+    }
+
+}
+
+.search-input {
+    padding: 0 1.25rem;
+    width: 100%;
+    height: 100%;
+}
+
+.search-input:focus {
+    outline: none;
+}

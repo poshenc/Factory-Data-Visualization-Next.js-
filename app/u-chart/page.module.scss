@@ -1,0 +1,24 @@
+.title-section {
+    display: flex;
+    justify-content: space-between;
+}
+
+.right-actions {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 30px;
+}
+
+.uChart {
+    padding: 1.5rem 0;
+    height: calc(100vh - 26.5rem);
+    margin-bottom: 0.8rem;
+}
+
+.error {
+    position: absolute;
+    color: red;
+    top: -25px;
+    left: 225px;
+}

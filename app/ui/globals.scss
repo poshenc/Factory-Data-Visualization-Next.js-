@@ -1,0 +1,160 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import './styles/font-face.scss';
+
+body {
+  margin: 0;
+  font-family: NotoSansTC-Regular, "Helvetica Neue", sans-serif !important;
+  color: #04203C;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.text-link {
+  color: inherit;
+  text-decoration: inherit;
+}
+
+input[type="password"] {
+  font: small-caption;
+  font-size: 16px;
+  line-height: 1.45rem;
+}
+
+/* ===== Font and Title ===== */
+.page-title {
+  font-family: NotoSansTC-Bold;
+  font-size: 1.375rem;
+  color: #04203C;
+  margin-bottom: 1.25rem;
+}
+
+.tab-medium {
+  font-family: NotoSansTC-Medium;
+  font-size: 1.25rem;
+  color: #04203C;
+}
+
+.section-title {
+  font-family: NotoSansTC-Bold;
+  font-size: 1.125rem;
+  color: #04203C;
+  margin-bottom: 1rem;
+}
+
+.button-medium {
+  font-family: NotoSansTC-Medium;
+  font-size: 1rem;
+  color: #04203C;
+}
+
+.detail-infomation-title {
+  font-family: NotoSansTC-Bold;
+  font-size: 0.875rem;
+  color: #04203C;
+}
+
+.text-regular {
+  font-family: NotoSansTC-Regular;
+  font-size: 0.875rem;
+  color: #04203C;
+}
+
+.placeholder-medium {
+  font-family: NotoSansTC-Regular;
+  font-size: 0.875rem;
+  color: #B5B5B5;
+}
+
+
+/* ===== Spacing ===== */
+$max: 1000;
+$rem: 625;
+
+@for $unit from 0 through $max {
+  $unitRem: $rem * $unit;
+
+  /* Margin */
+  .m-#{$unitRem}rem {
+    margin: calc($rem / 10000 * $unit) * 1rem !important;
+  }
+
+  .mt-#{$unitRem}rem {
+    margin-top: calc($rem / 10000 * $unit) * 1rem !important;
+  }
+
+  .mb-#{$unitRem}rem {
+    margin-bottom: calc($rem / 10000 * $unit) * 1rem !important;
+  }
+
+  .ms-#{$unitRem}rem {
+    margin-left: calc($rem / 10000 * $unit) * 1rem !important;
+  }
+
+  .me-#{$unitRem}rem {
+    margin-right: calc($rem / 10000 * $unit) * 1rem !important;
+  }
+
+  /* Padding */
+  .p-#{$unitRem}rem {
+    padding: calc($rem / 10000 * $unit) * 1rem !important;
+  }
+
+  .pt-#{$unitRem}rem {
+    padding-top: calc($rem / 10000 * $unit) * 1rem !important;
+  }
+
+  .pb-#{$unitRem}rem {
+    padding-bottom: calc($rem / 10000 * $unit) * 1rem !important;
+  }
+
+  .ps-#{$unitRem}rem {
+    padding-left: calc($rem / 10000 * $unit) * 1rem !important;
+  }
+
+  .pe-#{$unitRem}rem {
+    padding-right: calc($rem / 10000 * $unit) * 1rem !important;
+  }
+
+  /* Height */
+  .h-#{$unitRem}rem {
+    height: calc($rem / 10000 * $unit) * 1rem !important;
+  }
+
+  .max-h-#{$unitRem}rem {
+    max-height: calc($rem / 10000 * $unit) * 1rem !important;
+  }
+
+  .min-h-#{$unitRem}rem {
+    min-height: calc($rem / 10000 * $unit) * 1rem !important;
+  }
+
+  /* Width */
+  .w-#{$unitRem}rem {
+    width: calc($rem / 10000 * $unit) * 1rem !important;
+  }
+
+  .max-w-#{$unitRem}rem {
+    max-width: calc($rem / 10000 * $unit) * 1rem !important;
+  }
+
+  .min-w-#{$unitRem}rem {
+    min-width: calc($rem / 10000 * $unit) * 1rem !important;
+  }
+
+  /* Line Height */
+  .line-h-#{$unitRem}rem {
+    line-height: calc($rem / 10000 * $unit) * 1rem !important;
+  }
+
+  /* Font-Size */
+  .fs-#{$unitRem}rem {
+    font-size: calc($rem / 10000 * $unit) * 1rem !important;
+  }
+}

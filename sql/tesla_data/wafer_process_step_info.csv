@@ -1,0 +1,341 @@
+"toolid","moduleid","recipeid","lotid","carrierid","slotno","waferid","recipestepno","sdate","edate"
+tesla_sensor,model_Y,tesla_recipe.851,Suspension,CCS1,3,"03",6,2023-11-28 11:50:13.780,2023-11-28 11:51:13.820
+tesla_sensor,model_Y,tesla_recipe.851,Suspension,CCS1,3,"03",7,2023-11-28 11:51:13.820,2023-11-28 11:51:14.870
+tesla_sensor,model_Y,tesla_recipe.851,Suspension,CCS1,3,"03",8,2023-11-28 11:51:14.870,2023-11-28 11:51:19.880
+tesla_sensor,model_Y,tesla_recipe.851,Suspension,CCS1,3,"03",9,2023-11-28 11:51:19.880,2023-11-28 11:51:23.110
+tesla_sensor,model_Y,tesla_recipe.851,Suspension,CCS1,3,"03",10,2023-11-28 11:51:23.110,2023-11-28 11:51:33.120
+tesla_sensor,model_Y,tesla_recipe.851,Seats,CCS2,24,"24",1,2023-11-28 11:21:40.650,2023-11-28 11:21:47.700
+tesla_sensor,model_Y,tesla_recipe.851,Seats,CCS2,24,"24",2,2023-11-28 11:21:47.700,2023-11-28 11:21:52.710
+tesla_sensor,model_Y,tesla_recipe.851,Seats,CCS2,24,"24",3,2023-11-28 11:21:52.710,2023-11-28 11:22:02.720
+tesla_sensor,model_Y,tesla_recipe.851,Seats,CCS2,24,"24",4,2023-11-28 11:22:02.720,2023-11-28 11:22:03.770
+tesla_sensor,model_Y,tesla_recipe.851,Seats,CCS2,24,"24",5,2023-11-28 11:22:03.770,2023-11-28 11:22:04.780
+tesla_sensor,model_Y,tesla_recipe.851,Seats,CCS2,24,"24",6,2023-11-28 11:22:04.780,2023-11-28 11:23:04.820
+tesla_sensor,model_Y,tesla_recipe.851,Seats,CCS2,24,"24",7,2023-11-28 11:23:04.820,2023-11-28 11:23:05.870
+tesla_sensor,model_Y,tesla_recipe.851,Seats,CCS2,24,"24",8,2023-11-28 11:23:05.870,2023-11-28 11:23:10.880
+tesla_sensor,model_Y,tesla_recipe.851,Seats,CCS2,24,"24",9,2023-11-28 11:23:10.880,2023-11-28 11:23:14.100
+tesla_sensor,model_Y,tesla_recipe.851,Seats,CCS2,24,"24",10,2023-11-28 11:23:14.100,2023-11-28 11:23:24.110
+tesla_sensor,model_Y,tesla_recipe.851,Tires,TPC,2,"02",1,2023-11-28 14:42:05.490,2023-11-28 14:42:12.550
+tesla_sensor,model_Y,tesla_recipe.851,Tires,TPC,2,"02",2,2023-11-28 14:42:12.550,2023-11-28 14:42:17.560
+tesla_sensor,model_Y,tesla_recipe.851,Tires,TPC,2,"02",3,2023-11-28 14:42:17.560,2023-11-28 14:42:27.580
+tesla_sensor,model_Y,tesla_recipe.851,Tires,TPC,2,"02",4,2023-11-28 14:42:27.580,2023-11-28 14:42:28.630
+tesla_sensor,model_Y,tesla_recipe.851,Tires,TPC,2,"02",5,2023-11-28 14:42:28.630,2023-11-28 14:42:29.640
+tesla_sensor,model_Y,tesla_recipe.851,Tires,TPC,2,"02",6,2023-11-28 14:42:29.640,2023-11-28 14:43:35.880
+tesla_sensor,model_Y,tesla_recipe.851,Tires,TPC,2,"02",7,2023-11-28 14:43:35.880,2023-11-28 14:43:36.920
+tesla_sensor,model_Y,tesla_recipe.851,Tires,TPC,2,"02",8,2023-11-28 14:43:36.920,2023-11-28 14:43:41.930
+tesla_sensor,model_Y,tesla_recipe.851,Tires,TPC,2,"02",9,2023-11-28 14:43:41.930,2023-11-28 14:43:45.090
+tesla_sensor,model_Y,tesla_recipe.851,Tires,TPC,2,"02",10,2023-11-28 14:43:45.090,2023-11-28 14:43:55.100
+tesla_sensor,model_Y,tesla_recipe.853,Tires,TPC,1,"01",1,2023-11-28 14:39:59.860,2023-11-28 14:40:06.910
+tesla_sensor,model_3,tesla_recipe.123,Battery,CHAdeMo,3,"03",6,2024-01-04 13:53:40.300,2024-01-04 13:54:05.340
+tesla_sensor,model_3,tesla_recipe.123,Battery,CHAdeMo,3,"03",7,2024-01-04 13:54:05.340,2024-01-04 13:54:06.390
+tesla_sensor,model_3,tesla_recipe.123,Battery,CHAdeMo,3,"03",8,2024-01-04 13:54:06.390,2024-01-04 13:54:11.420
+tesla_sensor,model_3,tesla_recipe.123,Battery,CHAdeMo,3,"03",9,2024-01-04 13:54:11.420,2024-01-04 13:54:14.610
+tesla_sensor,model_3,tesla_recipe.123,Battery,CHAdeMo,3,"03",10,2024-01-04 13:54:14.610,2024-01-04 13:54:24.620
+tesla_sensor,model_3,tesla_recipe.124,Battery,CHAdeMo,4,"04",1,2024-01-04 13:56:57.160,2024-01-04 13:57:04.200
+tesla_sensor,model_3,tesla_recipe.124,Battery,CHAdeMo,4,"04",2,2024-01-04 13:57:04.200,2024-01-04 13:57:09.210
+tesla_sensor,model_3,tesla_recipe.124,Battery,CHAdeMo,4,"04",3,2024-01-04 13:57:09.210,2024-01-04 13:57:19.220
+tesla_sensor,model_3,tesla_recipe.124,Battery,CHAdeMo,4,"04",4,2024-01-04 13:57:19.220,2024-01-04 13:57:20.270
+tesla_sensor,model_3,tesla_recipe.124,Battery,CHAdeMo,4,"04",5,2024-01-04 13:57:20.270,2024-01-04 13:57:21.290
+tesla_sensor,model_3,tesla_recipe.124,Battery,CHAdeMo,4,"04",6,2024-01-04 13:57:21.290,2024-01-04 13:58:11.330
+tesla_sensor,model_3,tesla_recipe.124,Battery,CHAdeMo,4,"04",7,2024-01-04 13:58:11.330,2024-01-04 13:58:12.380
+tesla_sensor,model_3,tesla_recipe.124,Battery,CHAdeMo,4,"04",8,2024-01-04 13:58:12.380,2024-01-04 13:58:17.410
+tesla_sensor,model_3,tesla_recipe.124,Battery,CHAdeMo,4,"04",9,2024-01-04 13:58:17.410,2024-01-04 13:58:20.590
+tesla_sensor,model_3,tesla_recipe.124,Battery,CHAdeMo,4,"04",10,2024-01-04 13:58:20.590,2024-01-04 13:58:30.600
+tesla_sensor,model_3,tesla_recipe.125,Battery,CHAdeMo,5,"05",1,2024-01-04 14:01:12.830,2024-01-04 14:01:19.850
+tesla_sensor,model_3,tesla_recipe.125,Battery,CHAdeMo,5,"05",2,2024-01-04 14:01:19.850,2024-01-04 14:01:24.860
+tesla_sensor,model_3,tesla_recipe.125,Battery,CHAdeMo,5,"05",3,2024-01-04 14:01:24.860,2024-01-04 14:01:34.870
+tesla_sensor,model_3,tesla_recipe.125,Battery,CHAdeMo,5,"05",4,2024-01-04 14:01:34.870,2024-01-04 14:01:35.920
+tesla_sensor,model_3,tesla_recipe.125,Battery,CHAdeMo,5,"05",5,2024-01-04 14:01:35.920,2024-01-04 14:01:36.930
+tesla_sensor,model_3,tesla_recipe.125,Battery,CHAdeMo,5,"05",6,2024-01-04 14:01:36.930,2024-01-04 14:02:01.970
+tesla_sensor,model_3,tesla_recipe.125,Battery,CHAdeMo,5,"05",7,2024-01-04 14:02:01.970,2024-01-04 14:02:03.020
+tesla_sensor,model_3,tesla_recipe.125,Battery,CHAdeMo,5,"05",8,2024-01-04 14:02:03.020,2024-01-04 14:02:08.050
+tesla_sensor,model_3,tesla_recipe.125,Battery,CHAdeMo,5,"05",9,2024-01-04 14:02:08.050,2024-01-04 14:02:11.230
+tesla_sensor,model_3,tesla_recipe.125,Battery,CHAdeMo,5,"05",10,2024-01-04 14:02:11.230,2024-01-04 14:02:21.240
+tesla_sensor,model_3,tesla_recipe.126,Battery,CHAdeMo,6,"06",1,2024-01-04 14:04:53.970,2024-01-04 14:05:01.000
+tesla_sensor,model_3,tesla_recipe.126,Battery,CHAdeMo,6,"06",2,2024-01-04 14:05:01.000,2024-01-04 14:05:06.010
+tesla_sensor,model_3,tesla_recipe.126,Battery,CHAdeMo,6,"06",3,2024-01-04 14:05:06.010,2024-01-04 14:05:16.020
+tesla_sensor,model_3,tesla_recipe.126,Battery,CHAdeMo,6,"06",4,2024-01-04 14:05:16.020,2024-01-04 14:05:17.060
+tesla_sensor,model_3,tesla_recipe.126,Battery,CHAdeMo,6,"06",5,2024-01-04 14:05:17.060,2024-01-04 14:05:18.070
+tesla_sensor,model_3,tesla_recipe.126,Battery,CHAdeMo,6,"06",6,2024-01-04 14:05:18.070,2024-01-04 14:06:08.110
+tesla_sensor,model_3,tesla_recipe.126,Battery,CHAdeMo,6,"06",7,2024-01-04 14:06:08.110,2024-01-04 14:06:09.150
+tesla_sensor,model_3,tesla_recipe.126,Battery,CHAdeMo,6,"06",8,2024-01-04 14:06:09.150,2024-01-04 14:06:14.180
+tesla_sensor,model_3,tesla_recipe.126,Battery,CHAdeMo,6,"06",9,2024-01-04 14:06:14.180,2024-01-04 14:06:17.360
+tesla_sensor,model_3,tesla_recipe.126,Battery,CHAdeMo,6,"06",10,2024-01-04 14:06:17.360,2024-01-04 14:06:27.370
+tesla_sensor,model_3,tesla_recipe.127,Battery,CHAdeMo,7,"07",1,2024-01-04 14:09:09.560,2024-01-04 14:09:16.610
+tesla_sensor,model_3,tesla_recipe.127,Battery,CHAdeMo,7,"07",2,2024-01-04 14:09:16.610,2024-01-04 14:09:21.620
+tesla_sensor,model_3,tesla_recipe.127,Battery,CHAdeMo,7,"07",3,2024-01-04 14:09:21.620,2024-01-04 14:09:31.630
+tesla_sensor,model_3,tesla_recipe.127,Battery,CHAdeMo,7,"07",4,2024-01-04 14:09:31.630,2024-01-04 14:09:32.680
+tesla_sensor,model_3,tesla_recipe.127,Battery,CHAdeMo,7,"07",5,2024-01-04 14:09:32.680,2024-01-04 14:09:33.690
+tesla_sensor,model_3,tesla_recipe.127,Battery,CHAdeMo,7,"07",6,2024-01-04 14:09:33.690,2024-01-04 14:09:58.730
+tesla_sensor,model_3,tesla_recipe.127,Battery,CHAdeMo,7,"07",7,2024-01-04 14:09:58.730,2024-01-04 14:09:59.780
+tesla_sensor,model_3,tesla_recipe.127,Battery,CHAdeMo,7,"07",8,2024-01-04 14:09:59.780,2024-01-04 14:10:04.810
+tesla_sensor,model_3,tesla_recipe.127,Battery,CHAdeMo,7,"07",9,2024-01-04 14:10:04.810,2024-01-04 14:10:07.990
+tesla_sensor,model_3,tesla_recipe.127,Battery,CHAdeMo,7,"07",10,2024-01-04 14:10:07.990,2024-01-04 14:10:18.000
+tesla_sensor,model_3,tesla_recipe.128,Battery,CHAdeMo,8,"08",1,2024-01-04 14:12:50.750,2024-01-04 14:12:57.770
+tesla_sensor,model_3,tesla_recipe.128,Battery,CHAdeMo,8,"08",2,2024-01-04 14:12:57.770,2024-01-04 14:13:02.780
+tesla_sensor,model_3,tesla_recipe.128,Battery,CHAdeMo,8,"08",3,2024-01-04 14:13:02.780,2024-01-04 14:13:12.790
+tesla_sensor,model_3,tesla_recipe.128,Battery,CHAdeMo,8,"08",4,2024-01-04 14:13:12.790,2024-01-04 14:13:13.840
+tesla_sensor,model_3,tesla_recipe.128,Battery,CHAdeMo,8,"08",5,2024-01-04 14:13:13.840,2024-01-04 14:13:14.850
+tesla_sensor,model_3,tesla_recipe.128,Battery,CHAdeMo,8,"08",6,2024-01-04 14:13:14.850,2024-01-04 14:14:04.890
+tesla_sensor,model_3,tesla_recipe.128,Battery,CHAdeMo,8,"08",7,2024-01-04 14:14:04.890,2024-01-04 14:14:05.940
+tesla_sensor,model_3,tesla_recipe.128,Battery,CHAdeMo,8,"08",8,2024-01-04 14:14:05.940,2024-01-04 14:14:10.970
+tesla_sensor,model_3,tesla_recipe.128,Battery,CHAdeMo,8,"08",9,2024-01-04 14:14:10.970,2024-01-04 14:14:14.150
+tesla_sensor,model_3,tesla_recipe.128,Battery,CHAdeMo,8,"08",10,2024-01-04 14:14:14.150,2024-01-04 14:14:24.160
+tesla_sensor,model_3,tesla_recipe.129,Wiper Blades,CHAdeMo,9,"09",1,2024-01-04 14:38:54.150,2024-01-04 14:39:01.220
+tesla_sensor,model_3,tesla_recipe.129,Wiper Blades,CHAdeMo,9,"09",2,2024-01-04 14:39:01.220,2024-01-04 14:39:06.230
+tesla_sensor,model_3,tesla_recipe.129,Wiper Blades,CHAdeMo,9,"09",3,2024-01-04 14:39:06.230,2024-01-04 14:39:16.240
+tesla_sensor,model_3,tesla_recipe.129,Wiper Blades,CHAdeMo,9,"09",4,2024-01-04 14:39:16.240,2024-01-04 14:39:17.290
+tesla_sensor,model_3,tesla_recipe.129,Wiper Blades,CHAdeMo,9,"09",5,2024-01-04 14:39:17.290,2024-01-04 14:39:18.300
+tesla_sensor,model_3,tesla_recipe.129,Wiper Blades,CHAdeMo,9,"09",6,2024-01-04 14:39:18.300,2024-01-04 14:39:43.340
+tesla_sensor,model_3,tesla_recipe.129,Wiper Blades,CHAdeMo,9,"09",7,2024-01-04 14:39:43.340,2024-01-04 14:39:44.390
+tesla_sensor,model_3,tesla_recipe.129,Wiper Blades,CHAdeMo,9,"09",8,2024-01-04 14:39:44.390,2024-01-04 14:39:49.420
+tesla_sensor,model_3,tesla_recipe.129,Wiper Blades,CHAdeMo,9,"09",9,2024-01-04 14:39:49.420,2024-01-04 14:39:52.600
+tesla_sensor,model_3,tesla_recipe.129,Wiper Blades,CHAdeMo,9,"09",10,2024-01-04 14:39:52.600,2024-01-04 14:40:02.610
+tesla_sensor,model_3,tesla_recipe.130,Wiper Blades,CHAdeMo,10,"10",1,2024-01-04 14:42:35.410,2024-01-04 14:42:42.450
+tesla_sensor,model_3,tesla_recipe.130,Wiper Blades,CHAdeMo,10,"10",2,2024-01-04 14:42:42.450,2024-01-04 14:42:47.460
+tesla_sensor,model_3,tesla_recipe.130,Wiper Blades,CHAdeMo,10,"10",3,2024-01-04 14:42:47.460,2024-01-04 14:42:57.470
+tesla_sensor,model_3,tesla_recipe.130,Wiper Blades,CHAdeMo,10,"10",4,2024-01-04 14:42:57.470,2024-01-04 14:42:58.520
+tesla_sensor,model_3,tesla_recipe.130,Wiper Blades,CHAdeMo,10,"10",5,2024-01-04 14:42:58.520,2024-01-04 14:42:59.530
+tesla_sensor,model_3,tesla_recipe.130,Wiper Blades,CHAdeMo,10,"10",6,2024-01-04 14:42:59.530,2024-01-04 14:43:49.570
+tesla_sensor,model_3,tesla_recipe.130,Wiper Blades,CHAdeMo,10,"10",7,2024-01-04 14:43:49.570,2024-01-04 14:43:50.620
+tesla_sensor,model_3,tesla_recipe.130,Wiper Blades,CHAdeMo,10,"10",8,2024-01-04 14:43:50.620,2024-01-04 14:43:55.650
+tesla_sensor,model_3,tesla_recipe.130,Wiper Blades,CHAdeMo,10,"10",9,2024-01-04 14:43:55.650,2024-01-04 14:43:58.830
+tesla_sensor,model_3,tesla_recipe.130,Wiper Blades,CHAdeMo,10,"10",10,2024-01-04 14:43:58.830,2024-01-04 14:44:08.840
+tesla_sensor,model_3,tesla_recipe.131,Wiper Blades,CHAdeMo,11,"11",1,2024-01-04 14:46:51.150,2024-01-04 14:46:58.160
+tesla_sensor,model_3,tesla_recipe.131,Wiper Blades,CHAdeMo,11,"11",2,2024-01-04 14:46:58.160,2024-01-04 14:47:03.170
+tesla_sensor,model_3,tesla_recipe.131,Wiper Blades,CHAdeMo,11,"11",3,2024-01-04 14:47:03.170,2024-01-04 14:47:13.180
+tesla_sensor,model_3,tesla_recipe.131,Wiper Blades,CHAdeMo,11,"11",4,2024-01-04 14:47:13.180,2024-01-04 14:47:14.230
+tesla_sensor,model_3,tesla_recipe.131,Wiper Blades,CHAdeMo,11,"11",5,2024-01-04 14:47:14.230,2024-01-04 14:47:15.240
+tesla_sensor,model_3,tesla_recipe.131,Wiper Blades,CHAdeMo,11,"11",6,2024-01-04 14:47:15.240,2024-01-04 14:47:40.280
+tesla_sensor,model_3,tesla_recipe.131,Wiper Blades,CHAdeMo,11,"11",7,2024-01-04 14:47:40.280,2024-01-04 14:47:41.330
+tesla_sensor,model_3,tesla_recipe.131,Wiper Blades,CHAdeMo,11,"11",8,2024-01-04 14:47:41.330,2024-01-04 14:47:46.360
+tesla_sensor,model_3,tesla_recipe.131,Wiper Blades,CHAdeMo,11,"11",9,2024-01-04 14:47:46.360,2024-01-04 14:47:49.530
+tesla_sensor,model_3,tesla_recipe.131,Wiper Blades,CHAdeMo,11,"11",10,2024-01-04 14:47:49.530,2024-01-04 14:47:59.540
+tesla_sensor,model_3,tesla_recipe.132,Wiper Blades,CHAdeMo,12,"12",1,2024-01-04 14:50:32.250,2024-01-04 14:50:39.270
+tesla_sensor,model_3,tesla_recipe.132,Wiper Blades,CHAdeMo,12,"12",2,2024-01-04 14:50:39.270,2024-01-04 14:50:44.280
+tesla_sensor,model_3,tesla_recipe.132,Wiper Blades,CHAdeMo,12,"12",3,2024-01-04 14:50:44.280,2024-01-04 14:50:54.290
+tesla_sensor,model_3,tesla_recipe.132,Wiper Blades,CHAdeMo,12,"12",4,2024-01-04 14:50:54.290,2024-01-04 14:50:55.340
+tesla_sensor,model_3,tesla_recipe.132,Wiper Blades,CHAdeMo,12,"12",5,2024-01-04 14:50:55.340,2024-01-04 14:50:56.350
+tesla_sensor,model_3,tesla_recipe.132,Wiper Blades,CHAdeMo,12,"12",6,2024-01-04 14:50:56.350,2024-01-04 14:51:46.390
+tesla_sensor,model_3,tesla_recipe.132,Wiper Blades,CHAdeMo,12,"12",7,2024-01-04 14:51:46.390,2024-01-04 14:51:47.430
+tesla_sensor,model_3,tesla_recipe.132,Wiper Blades,CHAdeMo,12,"12",8,2024-01-04 14:51:47.430,2024-01-04 14:51:52.460
+tesla_sensor,model_3,tesla_recipe.132,Wiper Blades,CHAdeMo,12,"12",9,2024-01-04 14:51:52.460,2024-01-04 14:51:55.630
+tesla_sensor,model_3,tesla_recipe.132,Wiper Blades,CHAdeMo,12,"12",10,2024-01-04 14:51:55.630,2024-01-04 14:52:05.640
+tesla_sensor,model_3,tesla_recipe.133,Wiper Blades,CHAdeMo,13,"13",1,2024-01-04 14:54:45.390,2024-01-04 14:54:52.400
+tesla_sensor,model_3,tesla_recipe.133,Wiper Blades,CHAdeMo,13,"13",2,2024-01-04 14:54:52.400,2024-01-04 14:54:57.410
+tesla_sensor,model_3,tesla_recipe.133,Wiper Blades,CHAdeMo,13,"13",3,2024-01-04 14:54:57.410,2024-01-04 14:55:07.420
+tesla_sensor,model_3,tesla_recipe.133,Wiper Blades,CHAdeMo,13,"13",4,2024-01-04 14:55:07.420,2024-01-04 14:55:08.470
+tesla_sensor,model_3,tesla_recipe.133,Wiper Blades,CHAdeMo,13,"13",5,2024-01-04 14:55:08.470,2024-01-04 14:55:09.480
+tesla_sensor,model_3,tesla_recipe.133,Wiper Blades,CHAdeMo,13,"13",6,2024-01-04 14:55:09.480,2024-01-04 14:55:34.520
+tesla_sensor,model_3,tesla_recipe.133,Wiper Blades,CHAdeMo,13,"13",7,2024-01-04 14:55:34.520,2024-01-04 14:55:35.570
+tesla_sensor,model_3,tesla_recipe.133,Wiper Blades,CHAdeMo,13,"13",8,2024-01-04 14:55:35.570,2024-01-04 14:55:40.600
+tesla_sensor,model_3,tesla_recipe.133,Wiper Blades,CHAdeMo,13,"13",9,2024-01-04 14:55:40.600,2024-01-04 14:55:43.770
+tesla_sensor,model_3,tesla_recipe.133,Wiper Blades,CHAdeMo,13,"13",10,2024-01-04 14:55:43.770,2024-01-04 14:55:53.780
+tesla_sensor,model_3,tesla_recipe.134,Wiper Blades,CHAdeMo,14,"14",1,2024-01-04 14:58:26.490,2024-01-04 14:58:33.510
+tesla_sensor,model_3,tesla_recipe.134,Wiper Blades,CHAdeMo,14,"14",2,2024-01-04 14:58:33.510,2024-01-04 14:58:38.520
+tesla_sensor,model_3,tesla_recipe.134,Wiper Blades,CHAdeMo,14,"14",3,2024-01-04 14:58:38.520,2024-01-04 14:58:48.530
+tesla_sensor,model_3,tesla_recipe.134,Wiper Blades,CHAdeMo,14,"14",4,2024-01-04 14:58:48.530,2024-01-04 14:58:49.580
+tesla_sensor,model_3,tesla_recipe.134,Wiper Blades,CHAdeMo,14,"14",5,2024-01-04 14:58:49.580,2024-01-04 14:58:50.590
+tesla_sensor,model_3,tesla_recipe.134,Wiper Blades,CHAdeMo,14,"14",6,2024-01-04 14:58:50.590,2024-01-04 14:59:40.630
+tesla_sensor,model_3,tesla_recipe.134,Wiper Blades,CHAdeMo,14,"14",7,2024-01-04 14:59:40.630,2024-01-04 14:59:41.680
+tesla_sensor,model_3,tesla_recipe.134,Wiper Blades,CHAdeMo,14,"14",8,2024-01-04 14:59:41.680,2024-01-04 14:59:46.710
+tesla_sensor,model_3,tesla_recipe.134,Wiper Blades,CHAdeMo,14,"14",9,2024-01-04 14:59:46.710,2024-01-04 14:59:49.880
+tesla_sensor,model_3,tesla_recipe.134,Wiper Blades,CHAdeMo,14,"14",10,2024-01-04 14:59:49.880,2024-01-04 14:59:59.890
+tesla_sensor,model_3,tesla_recipe.135,Wiper Blades,CHAdeMo,15,"15",1,2024-01-04 15:02:41.890,2024-01-04 15:02:48.940
+tesla_sensor,model_3,tesla_recipe.135,Wiper Blades,CHAdeMo,15,"15",2,2024-01-04 15:02:48.940,2024-01-04 15:02:53.950
+tesla_sensor,model_3,tesla_recipe.135,Wiper Blades,CHAdeMo,15,"15",3,2024-01-04 15:02:53.950,2024-01-04 15:03:03.960
+tesla_sensor,model_3,tesla_recipe.135,Wiper Blades,CHAdeMo,15,"15",4,2024-01-04 15:03:03.960,2024-01-04 15:03:05.010
+tesla_sensor,model_3,tesla_recipe.135,Wiper Blades,CHAdeMo,15,"15",5,2024-01-04 15:03:05.010,2024-01-04 15:03:06.020
+tesla_sensor,model_3,tesla_recipe.135,Wiper Blades,CHAdeMo,15,"15",6,2024-01-04 15:03:06.020,2024-01-04 15:03:31.060
+tesla_sensor,model_3,tesla_recipe.135,Wiper Blades,CHAdeMo,15,"15",7,2024-01-04 15:03:31.060,2024-01-04 15:03:32.110
+tesla_sensor,model_3,tesla_recipe.135,Wiper Blades,CHAdeMo,15,"15",8,2024-01-04 15:03:32.110,2024-01-04 15:03:37.140
+tesla_sensor,model_3,tesla_recipe.135,Wiper Blades,CHAdeMo,15,"15",9,2024-01-04 15:03:37.140,2024-01-04 15:03:40.320
+tesla_sensor,model_3,tesla_recipe.135,Wiper Blades,CHAdeMo,15,"15",10,2024-01-04 15:03:40.320,2024-01-04 15:03:50.330
+tesla_sensor,model_3,tesla_recipe.136,Wiper Blades,CHAdeMo,21,"21",1,2024-01-04 15:06:22.860,2024-01-04 15:06:29.880
+tesla_sensor,model_3,tesla_recipe.136,Wiper Blades,CHAdeMo,21,"21",2,2024-01-04 15:06:29.880,2024-01-04 15:06:34.890
+tesla_sensor,model_3,tesla_recipe.136,Wiper Blades,CHAdeMo,21,"21",3,2024-01-04 15:06:34.890,2024-01-04 15:06:44.900
+tesla_sensor,model_3,tesla_recipe.136,Wiper Blades,CHAdeMo,21,"21",4,2024-01-04 15:06:44.900,2024-01-04 15:06:45.950
+tesla_sensor,model_3,tesla_recipe.136,Wiper Blades,CHAdeMo,21,"21",5,2024-01-04 15:06:45.950,2024-01-04 15:06:46.960
+tesla_sensor,model_3,tesla_recipe.136,Wiper Blades,CHAdeMo,21,"21",6,2024-01-04 15:06:46.960,2024-01-04 15:07:37.010
+tesla_sensor,model_3,tesla_recipe.136,Wiper Blades,CHAdeMo,21,"21",7,2024-01-04 15:07:37.010,2024-01-04 15:07:38.060
+tesla_sensor,model_3,tesla_recipe.136,Wiper Blades,CHAdeMo,21,"21",8,2024-01-04 15:07:38.060,2024-01-04 15:07:43.090
+tesla_sensor,model_3,tesla_recipe.136,Wiper Blades,CHAdeMo,21,"21",9,2024-01-04 15:07:43.090,2024-01-04 15:07:46.260
+tesla_sensor,model_3,tesla_recipe.136,Wiper Blades,CHAdeMo,21,"21",10,2024-01-04 15:07:46.260,2024-01-04 15:07:56.270
+tesla_sensor,model_3,tesla_recipe.137,Air Filter,CHAdeMo,1,"01",1,2024-01-04 16:22:10.250,2024-01-04 16:22:17.270
+tesla_sensor,model_3,tesla_recipe.137,Air Filter,CHAdeMo,1,"01",2,2024-01-04 16:22:17.270,2024-01-04 16:22:22.280
+tesla_sensor,model_3,tesla_recipe.137,Air Filter,CHAdeMo,1,"01",3,2024-01-04 16:22:22.280,2024-01-04 16:22:32.290
+tesla_sensor,model_3,tesla_recipe.137,Air Filter,CHAdeMo,1,"01",4,2024-01-04 16:22:32.290,2024-01-04 16:22:33.340
+tesla_sensor,model_3,tesla_recipe.137,Air Filter,CHAdeMo,1,"01",5,2024-01-04 16:22:33.340,2024-01-04 16:22:34.350
+tesla_sensor,model_3,tesla_recipe.137,Air Filter,CHAdeMo,1,"01",6,2024-01-04 16:22:34.350,2024-01-04 16:22:52.590
+tesla_sensor,model_3,tesla_recipe.137,Air Filter,CHAdeMo,1,"01",7,2024-01-04 16:22:52.590,2024-01-04 16:22:53.640
+tesla_sensor,model_3,tesla_recipe.137,Air Filter,CHAdeMo,1,"01",8,2024-01-04 16:22:53.640,2024-01-04 16:22:58.670
+tesla_sensor,model_3,tesla_recipe.137,Air Filter,CHAdeMo,1,"01",9,2024-01-04 16:22:58.670,2024-01-04 16:23:01.840
+tesla_sensor,model_3,tesla_recipe.137,Air Filter,CHAdeMo,1,"01",10,2024-01-04 16:23:01.840,2024-01-04 16:23:11.850
+tesla_sensor,model_3,tesla_recipe.138,Air Filter,CHAdeMo,2,"02",1,2024-01-04 16:25:45.120,2024-01-04 16:25:52.130
+tesla_sensor,model_3,tesla_recipe.138,Air Filter,CHAdeMo,2,"02",2,2024-01-04 16:25:52.130,2024-01-04 16:25:57.140
+tesla_sensor,model_3,tesla_recipe.138,Air Filter,CHAdeMo,2,"02",3,2024-01-04 16:25:57.140,2024-01-04 16:26:07.150
+tesla_sensor,model_3,tesla_recipe.138,Air Filter,CHAdeMo,2,"02",4,2024-01-04 16:26:07.150,2024-01-04 16:26:08.210
+tesla_sensor,model_3,tesla_recipe.138,Air Filter,CHAdeMo,2,"02",5,2024-01-04 16:26:08.210,2024-01-04 16:26:09.220
+tesla_sensor,model_3,tesla_recipe.138,Air Filter,CHAdeMo,2,"02",6,2024-01-04 16:26:09.220,2024-01-04 16:27:06.060
+tesla_sensor,model_3,tesla_recipe.138,Air Filter,CHAdeMo,2,"02",7,2024-01-04 16:27:06.060,2024-01-04 16:27:07.100
+tesla_sensor,model_3,tesla_recipe.138,Air Filter,CHAdeMo,2,"02",8,2024-01-04 16:27:07.100,2024-01-04 16:27:12.130
+tesla_sensor,model_3,tesla_recipe.138,Air Filter,CHAdeMo,2,"02",9,2024-01-04 16:27:12.130,2024-01-04 16:27:15.310
+tesla_sensor,model_3,tesla_recipe.138,Air Filter,CHAdeMo,2,"02",10,2024-01-04 16:27:15.310,2024-01-04 16:27:25.320
+tesla_sensor,model_3,tesla_recipe.139,Air Filter,CHAdeMo,3,"03",1,2024-01-04 16:30:06.900,2024-01-04 16:30:13.920
+tesla_sensor,model_3,tesla_recipe.139,Air Filter,CHAdeMo,3,"03",2,2024-01-04 16:30:13.920,2024-01-04 16:30:18.930
+tesla_sensor,model_3,tesla_recipe.139,Air Filter,CHAdeMo,3,"03",3,2024-01-04 16:30:18.930,2024-01-04 16:30:28.940
+tesla_sensor,model_3,tesla_recipe.139,Air Filter,CHAdeMo,3,"03",4,2024-01-04 16:30:28.940,2024-01-04 16:30:29.990
+tesla_sensor,model_3,tesla_recipe.139,Air Filter,CHAdeMo,3,"03",5,2024-01-04 16:30:29.990,2024-01-04 16:30:31.000
+tesla_sensor,model_3,tesla_recipe.139,Air Filter,CHAdeMo,3,"03",6,2024-01-04 16:30:31.000,2024-01-04 16:31:08.540
+tesla_sensor,model_3,tesla_recipe.139,Air Filter,CHAdeMo,3,"03",7,2024-01-04 16:31:08.540,2024-01-04 16:31:09.590
+tesla_sensor,model_3,tesla_recipe.139,Air Filter,CHAdeMo,3,"03",8,2024-01-04 16:31:09.590,2024-01-04 16:31:14.620
+tesla_sensor,model_3,tesla_recipe.139,Air Filter,CHAdeMo,3,"03",9,2024-01-04 16:31:14.620,2024-01-04 16:31:17.790
+tesla_sensor,model_3,tesla_recipe.139,Air Filter,CHAdeMo,3,"03",10,2024-01-04 16:31:17.790,2024-01-04 16:31:27.800
+tesla_sensor,model_3,tesla_recipe.140,Air Filter,CHAdeMo,4,"04",1,2024-01-04 16:34:12.930,2024-01-04 16:34:20.070
+tesla_sensor,model_3,tesla_recipe.140,Air Filter,CHAdeMo,4,"04",2,2024-01-04 16:34:20.070,2024-01-04 16:34:25.080
+tesla_sensor,model_3,tesla_recipe.140,Air Filter,CHAdeMo,4,"04",3,2024-01-04 16:34:25.080,2024-01-04 16:34:35.090
+tesla_sensor,model_3,tesla_recipe.140,Air Filter,CHAdeMo,4,"04",4,2024-01-04 16:34:35.090,2024-01-04 16:34:36.140
+tesla_sensor,model_3,tesla_recipe.140,Air Filter,CHAdeMo,4,"04",5,2024-01-04 16:34:36.140,2024-01-04 16:34:37.150
+tesla_sensor,model_3,tesla_recipe.140,Air Filter,CHAdeMo,4,"04",6,2024-01-04 16:34:37.150,2024-01-04 16:35:14.700
+tesla_sensor,model_3,tesla_recipe.140,Air Filter,CHAdeMo,4,"04",7,2024-01-04 16:35:14.700,2024-01-04 16:35:15.750
+tesla_sensor,model_3,tesla_recipe.140,Air Filter,CHAdeMo,4,"04",8,2024-01-04 16:35:15.750,2024-01-04 16:35:20.780
+tesla_sensor,model_3,tesla_recipe.140,Air Filter,CHAdeMo,4,"04",9,2024-01-04 16:35:20.780,2024-01-04 16:35:23.950
+tesla_sensor,model_3,tesla_recipe.140,Air Filter,CHAdeMo,4,"04",10,2024-01-04 16:35:23.950,2024-01-04 16:35:33.960
+tesla_sensor,model_3,tesla_recipe.141,Air Filter,CHAdeMo,5,"05",1,2024-01-04 16:38:15.370,2024-01-04 16:38:22.380
+tesla_sensor,model_3,tesla_recipe.141,Air Filter,CHAdeMo,5,"05",2,2024-01-04 16:38:22.380,2024-01-04 16:38:27.390
+tesla_sensor,model_3,tesla_recipe.141,Air Filter,CHAdeMo,5,"05",3,2024-01-04 16:38:27.390,2024-01-04 16:38:37.400
+tesla_sensor,model_3,tesla_recipe.141,Air Filter,CHAdeMo,5,"05",4,2024-01-04 16:38:37.400,2024-01-04 16:38:38.450
+tesla_sensor,model_3,tesla_recipe.141,Air Filter,CHAdeMo,5,"05",5,2024-01-04 16:38:38.450,2024-01-04 16:38:39.460
+tesla_sensor,model_3,tesla_recipe.141,Air Filter,CHAdeMo,5,"05",6,2024-01-04 16:38:39.460,2024-01-04 16:39:17.010
+tesla_sensor,model_3,tesla_recipe.141,Air Filter,CHAdeMo,5,"05",7,2024-01-04 16:39:17.010,2024-01-04 16:39:18.060
+tesla_sensor,model_3,tesla_recipe.141,Air Filter,CHAdeMo,5,"05",8,2024-01-04 16:39:18.060,2024-01-04 16:39:23.090
+tesla_sensor,model_3,tesla_recipe.141,Air Filter,CHAdeMo,5,"05",9,2024-01-04 16:39:23.090,2024-01-04 16:39:26.260
+tesla_sensor,model_3,tesla_recipe.141,Air Filter,CHAdeMo,5,"05",10,2024-01-04 16:39:26.260,2024-01-04 16:39:36.270
+tesla_sensor,model_3,tesla_recipe.142,Air Filter,CHAdeMo,6,"06",1,2024-01-04 16:42:09.690,2024-01-04 16:42:16.730
+tesla_sensor,model_3,tesla_recipe.142,Air Filter,CHAdeMo,6,"06",2,2024-01-04 16:42:16.730,2024-01-04 16:42:21.740
+tesla_sensor,model_3,tesla_recipe.142,Air Filter,CHAdeMo,6,"06",3,2024-01-04 16:42:21.740,2024-01-04 16:42:31.750
+tesla_sensor,model_3,tesla_recipe.142,Air Filter,CHAdeMo,6,"06",4,2024-01-04 16:42:31.750,2024-01-04 16:42:32.790
+tesla_sensor,model_3,tesla_recipe.142,Air Filter,CHAdeMo,6,"06",5,2024-01-04 16:42:32.790,2024-01-04 16:42:33.800
+tesla_sensor,model_3,tesla_recipe.142,Air Filter,CHAdeMo,6,"06",6,2024-01-04 16:42:33.800,2024-01-04 16:43:11.340
+tesla_sensor,model_3,tesla_recipe.142,Air Filter,CHAdeMo,6,"06",7,2024-01-04 16:43:11.340,2024-01-04 16:43:12.390
+tesla_sensor,model_3,tesla_recipe.142,Air Filter,CHAdeMo,6,"06",8,2024-01-04 16:43:12.390,2024-01-04 16:43:17.420
+tesla_sensor,model_3,tesla_recipe.142,Air Filter,CHAdeMo,6,"06",9,2024-01-04 16:43:17.420,2024-01-04 16:43:20.580
+tesla_sensor,model_3,tesla_recipe.142,Air Filter,CHAdeMo,6,"06",10,2024-01-04 16:43:20.580,2024-01-04 16:43:30.590
+tesla_sensor,model_3,tesla_recipe.143,Brakes,CHAdeMo,22,"22",1,2024-01-04 15:35:17.820,2024-01-04 15:35:24.850
+tesla_sensor,model_3,tesla_recipe.143,Brakes,CHAdeMo,22,"22",2,2024-01-04 15:35:24.850,2024-01-04 15:35:29.860
+tesla_sensor,model_3,tesla_recipe.143,Brakes,CHAdeMo,22,"22",3,2024-01-04 15:35:29.860,2024-01-04 15:35:39.870
+tesla_sensor,model_3,tesla_recipe.143,Brakes,CHAdeMo,22,"22",4,2024-01-04 15:35:39.870,2024-01-04 15:35:40.920
+tesla_sensor,model_3,tesla_recipe.143,Brakes,CHAdeMo,22,"22",5,2024-01-04 15:35:40.920,2024-01-04 15:35:41.930
+tesla_sensor,model_3,tesla_recipe.143,Brakes,CHAdeMo,22,"22",6,2024-01-04 15:35:41.930,2024-01-04 15:36:19.480
+tesla_sensor,model_3,tesla_recipe.143,Brakes,CHAdeMo,22,"22",7,2024-01-04 15:36:19.480,2024-01-04 15:36:20.530
+tesla_sensor,model_3,tesla_recipe.143,Brakes,CHAdeMo,22,"22",8,2024-01-04 15:36:20.530,2024-01-04 15:36:25.560
+tesla_sensor,model_3,tesla_recipe.143,Brakes,CHAdeMo,22,"22",9,2024-01-04 15:36:25.560,2024-01-04 15:36:28.730
+tesla_sensor,model_3,tesla_recipe.143,Brakes,CHAdeMo,22,"22",10,2024-01-04 15:36:28.730,2024-01-04 15:36:38.740
+tesla_sensor,model_3,tesla_recipe.144,Transmission,CHAdeMo,23,"23",1,2024-01-04 15:59:45.130,2024-01-04 15:59:52.140
+tesla_sensor,model_3,tesla_recipe.144,Transmission,CHAdeMo,23,"23",2,2024-01-04 15:59:52.140,2024-01-04 15:59:57.150
+tesla_sensor,model_3,tesla_recipe.144,Transmission,CHAdeMo,23,"23",3,2024-01-04 15:59:57.150,2024-01-04 16:00:07.160
+tesla_sensor,model_3,tesla_recipe.144,Transmission,CHAdeMo,23,"23",4,2024-01-04 16:00:07.160,2024-01-04 16:00:08.210
+tesla_sensor,model_3,tesla_recipe.144,Transmission,CHAdeMo,23,"23",5,2024-01-04 16:00:08.210,2024-01-04 16:00:09.220
+tesla_sensor,model_3,tesla_recipe.144,Transmission,CHAdeMo,23,"23",6,2024-01-04 16:00:09.220,2024-01-04 16:00:46.770
+tesla_sensor,model_3,tesla_recipe.144,Transmission,CHAdeMo,23,"23",7,2024-01-04 16:00:46.770,2024-01-04 16:00:47.820
+tesla_sensor,model_3,tesla_recipe.144,Transmission,CHAdeMo,23,"23",8,2024-01-04 16:00:47.820,2024-01-04 16:00:52.850
+tesla_sensor,model_3,tesla_recipe.144,Transmission,CHAdeMo,23,"23",9,2024-01-04 16:00:52.850,2024-01-04 16:00:56.030
+tesla_sensor,model_3,tesla_recipe.144,Transmission,CHAdeMo,23,"23",10,2024-01-04 16:00:56.030,2024-01-04 16:01:06.040
+tesla_sensor,model_3,tesla_recipe.145,Air Filter,CHAdeMo,7,"07",1,2024-01-04 16:46:03.280,2024-01-04 16:46:10.310
+tesla_sensor,model_3,tesla_recipe.145,Air Filter,CHAdeMo,9,"09",2,2024-01-04 16:53:59.330,2024-01-04 16:54:04.340
+tesla_sensor,model_3,tesla_recipe.145,Air Filter,CHAdeMo,9,"09",3,2024-01-04 16:54:04.340,2024-01-04 16:54:14.350
+tesla_sensor,model_3,tesla_recipe.145,Air Filter,CHAdeMo,9,"09",4,2024-01-04 16:54:14.350,2024-01-04 16:54:15.400
+tesla_sensor,model_3,tesla_recipe.145,Air Filter,CHAdeMo,9,"09",5,2024-01-04 16:54:15.400,2024-01-04 16:54:16.410
+tesla_sensor,model_3,tesla_recipe.145,Air Filter,CHAdeMo,9,"09",6,2024-01-04 16:54:16.410,2024-01-04 16:54:53.950
+tesla_sensor,model_3,tesla_recipe.145,Air Filter,CHAdeMo,9,"09",7,2024-01-04 16:54:53.950,2024-01-04 16:54:55.000
+tesla_sensor,model_3,tesla_recipe.145,Air Filter,CHAdeMo,9,"09",8,2024-01-04 16:54:55.000,2024-01-04 16:55:00.030
+tesla_sensor,model_3,tesla_recipe.145,Air Filter,CHAdeMo,9,"09",9,2024-01-04 16:55:00.030,2024-01-04 16:55:03.190
+tesla_sensor,model_3,tesla_recipe.145,Air Filter,CHAdeMo,9,"09",10,2024-01-04 16:55:03.190,2024-01-04 16:55:13.200
+tesla_sensor,model_3,tesla_recipe.121,Battery,CHAdeMo,1,"01",1,2024-01-04 13:45:21.370,2024-01-04 13:45:28.470
+tesla_sensor,model_3,tesla_recipe.121,Battery,CHAdeMo,1,"01",2,2024-01-04 13:45:28.470,2024-01-04 13:45:33.480
+tesla_sensor,model_3,tesla_recipe.121,Battery,CHAdeMo,1,"01",3,2024-01-04 13:45:33.480,2024-01-04 13:45:43.490
+tesla_sensor,model_3,tesla_recipe.121,Battery,CHAdeMo,1,"01",4,2024-01-04 13:45:43.490,2024-01-04 13:45:44.540
+tesla_sensor,model_3,tesla_recipe.121,Battery,CHAdeMo,1,"01",5,2024-01-04 13:45:44.540,2024-01-04 13:45:45.550
+tesla_sensor,model_3,tesla_recipe.121,Battery,CHAdeMo,1,"01",6,2024-01-04 13:45:45.550,2024-01-04 13:46:10.590
+tesla_sensor,model_3,tesla_recipe.121,Battery,CHAdeMo,1,"01",7,2024-01-04 13:46:10.590,2024-01-04 13:46:11.630
+tesla_sensor,model_3,tesla_recipe.121,Battery,CHAdeMo,1,"01",8,2024-01-04 13:46:11.630,2024-01-04 13:46:16.660
+tesla_sensor,model_3,tesla_recipe.121,Battery,CHAdeMo,1,"01",9,2024-01-04 13:46:16.660,2024-01-04 13:46:19.840
+tesla_sensor,model_3,tesla_recipe.121,Battery,CHAdeMo,1,"01",10,2024-01-04 13:46:19.840,2024-01-04 13:46:29.850
+tesla_sensor,model_3,tesla_recipe.122,Battery,CHAdeMo,2,"02",1,2024-01-04 13:49:02.850,2024-01-04 13:49:09.900
+tesla_sensor,model_3,tesla_recipe.122,Battery,CHAdeMo,2,"02",2,2024-01-04 13:49:09.900,2024-01-04 13:49:14.910
+tesla_sensor,model_3,tesla_recipe.122,Battery,CHAdeMo,2,"02",3,2024-01-04 13:49:14.910,2024-01-04 13:49:24.920
+tesla_sensor,model_3,tesla_recipe.122,Battery,CHAdeMo,2,"02",4,2024-01-04 13:49:24.920,2024-01-04 13:49:25.970
+tesla_sensor,model_3,tesla_recipe.122,Battery,CHAdeMo,2,"02",5,2024-01-04 13:49:25.970,2024-01-04 13:49:26.980
+tesla_sensor,model_3,tesla_recipe.122,Battery,CHAdeMo,2,"02",6,2024-01-04 13:49:26.980,2024-01-04 13:50:17.020
+tesla_sensor,model_3,tesla_recipe.122,Battery,CHAdeMo,2,"02",7,2024-01-04 13:50:17.020,2024-01-04 13:50:18.070
+tesla_sensor,model_3,tesla_recipe.122,Battery,CHAdeMo,2,"02",8,2024-01-04 13:50:18.070,2024-01-04 13:50:23.110
+tesla_sensor,model_3,tesla_recipe.122,Battery,CHAdeMo,2,"02",9,2024-01-04 13:50:23.110,2024-01-04 13:50:26.290
+tesla_sensor,model_3,tesla_recipe.122,Battery,CHAdeMo,2,"02",10,2024-01-04 13:50:26.290,2024-01-04 13:50:36.300
+tesla_sensor,model_3,tesla_recipe.123,Battery,CHAdeMo,3,"03",1,2024-01-04 13:53:16.140,2024-01-04 13:53:23.220
+tesla_sensor,model_3,tesla_recipe.123,Battery,CHAdeMo,3,"03",2,2024-01-04 13:53:23.220,2024-01-04 13:53:28.230
+tesla_sensor,model_Y,tesla_recipe.851,Suspension,CCS1,1,"01",7,2023-11-28 11:47:18.550,2023-11-28 11:47:19.600
+tesla_sensor,model_Y,tesla_recipe.851,Suspension,CCS1,1,"01",8,2023-11-28 11:47:19.600,2023-11-28 11:47:24.610
+tesla_sensor,model_Y,tesla_recipe.851,Suspension,CCS1,1,"01",9,2023-11-28 11:47:24.610,2023-11-28 11:47:27.830
+tesla_sensor,model_Y,tesla_recipe.851,Suspension,CCS1,1,"01",10,2023-11-28 11:47:27.830,2023-11-28 11:47:37.840
+tesla_sensor,model_Y,tesla_recipe.851,Suspension,CCS1,2,"02",1,2023-11-28 11:47:51.930,2023-11-28 11:47:58.970
+tesla_sensor,model_Y,tesla_recipe.851,Suspension,CCS1,2,"02",2,2023-11-28 11:47:58.970,2023-11-28 11:48:03.980
+tesla_sensor,model_Y,tesla_recipe.851,Suspension,CCS1,2,"02",3,2023-11-28 11:48:03.980,2023-11-28 11:48:13.990
+tesla_sensor,model_Y,tesla_recipe.851,Suspension,CCS1,2,"02",4,2023-11-28 11:48:13.990,2023-11-28 11:48:15.040
+tesla_sensor,model_Y,tesla_recipe.851,Suspension,CCS1,2,"02",5,2023-11-28 11:48:15.040,2023-11-28 11:48:16.050
+tesla_sensor,model_Y,tesla_recipe.851,Suspension,CCS1,2,"02",6,2023-11-28 11:48:16.050,2023-11-28 11:49:16.090
+tesla_sensor,model_Y,tesla_recipe.851,Suspension,CCS1,2,"02",7,2023-11-28 11:49:16.090,2023-11-28 11:49:17.140
+tesla_sensor,model_Y,tesla_recipe.851,Suspension,CCS1,2,"02",8,2023-11-28 11:49:17.140,2023-11-28 11:49:22.160
+tesla_sensor,model_Y,tesla_recipe.851,Suspension,CCS1,2,"02",9,2023-11-28 11:49:22.160,2023-11-28 11:49:25.500
+tesla_sensor,model_Y,tesla_recipe.851,Suspension,CCS1,2,"02",10,2023-11-28 11:49:25.500,2023-11-28 11:49:35.510
+tesla_sensor,model_Y,tesla_recipe.851,Suspension,CCS1,3,"03",1,2023-11-28 11:49:49.670,2023-11-28 11:49:56.710
+tesla_sensor,model_3,tesla_recipe.123,Battery,CHAdeMo,3,"03",4,2024-01-04 13:53:38.240,2024-01-04 13:53:39.290
+tesla_sensor,model_3,tesla_recipe.145,Air Filter,CHAdeMo,7,"07",2,2024-01-04 16:46:10.310,2024-01-04 16:46:15.320
+tesla_sensor,model_3,tesla_recipe.145,Air Filter,CHAdeMo,7,"07",3,2024-01-04 16:46:15.320,2024-01-04 16:46:25.330
+tesla_sensor,model_3,tesla_recipe.145,Air Filter,CHAdeMo,7,"07",4,2024-01-04 16:46:25.330,2024-01-04 16:46:26.380
+tesla_sensor,model_3,tesla_recipe.145,Air Filter,CHAdeMo,7,"07",5,2024-01-04 16:46:26.380,2024-01-04 16:46:27.390
+tesla_sensor,model_3,tesla_recipe.145,Air Filter,CHAdeMo,7,"07",6,2024-01-04 16:46:27.390,2024-01-04 16:47:04.930
+tesla_sensor,model_3,tesla_recipe.145,Air Filter,CHAdeMo,7,"07",7,2024-01-04 16:47:04.930,2024-01-04 16:47:05.980
+tesla_sensor,model_3,tesla_recipe.145,Air Filter,CHAdeMo,7,"07",8,2024-01-04 16:47:05.980,2024-01-04 16:47:11.010
+tesla_sensor,model_3,tesla_recipe.145,Air Filter,CHAdeMo,7,"07",9,2024-01-04 16:47:11.010,2024-01-04 16:47:14.170
+tesla_sensor,model_3,tesla_recipe.145,Air Filter,CHAdeMo,7,"07",10,2024-01-04 16:47:14.170,2024-01-04 16:47:24.180
+tesla_sensor,model_3,tesla_recipe.145,Air Filter,CHAdeMo,8,"08",1,2024-01-04 16:49:58.400,2024-01-04 16:50:05.420
+tesla_sensor,model_3,tesla_recipe.145,Air Filter,CHAdeMo,8,"08",2,2024-01-04 16:50:05.420,2024-01-04 16:50:10.430
+tesla_sensor,model_3,tesla_recipe.145,Air Filter,CHAdeMo,8,"08",3,2024-01-04 16:50:10.430,2024-01-04 16:50:20.440
+tesla_sensor,model_3,tesla_recipe.145,Air Filter,CHAdeMo,8,"08",4,2024-01-04 16:50:20.440,2024-01-04 16:50:21.490
+tesla_sensor,model_3,tesla_recipe.145,Air Filter,CHAdeMo,8,"08",5,2024-01-04 16:50:21.490,2024-01-04 16:50:22.500
+tesla_sensor,model_3,tesla_recipe.145,Air Filter,CHAdeMo,8,"08",6,2024-01-04 16:50:22.500,2024-01-04 16:51:00.050
+tesla_sensor,model_3,tesla_recipe.145,Air Filter,CHAdeMo,8,"08",7,2024-01-04 16:51:00.050,2024-01-04 16:51:01.100
+tesla_sensor,model_3,tesla_recipe.145,Air Filter,CHAdeMo,8,"08",8,2024-01-04 16:51:01.100,2024-01-04 16:51:06.130
+tesla_sensor,model_3,tesla_recipe.145,Air Filter,CHAdeMo,8,"08",9,2024-01-04 16:51:06.130,2024-01-04 16:51:09.300
+tesla_sensor,model_3,tesla_recipe.145,Air Filter,CHAdeMo,8,"08",10,2024-01-04 16:51:09.300,2024-01-04 16:51:19.310
+tesla_sensor,model_3,tesla_recipe.145,Air Filter,CHAdeMo,9,"09",1,2024-01-04 16:53:52.320,2024-01-04 16:53:59.330
+tesla_sensor,model_3,tesla_recipe.123,Battery,CHAdeMo,3,"03",5,2024-01-04 13:53:39.290,2024-01-04 13:53:40.300
+tesla_sensor,model_Y,tesla_recipe.853,Tires,TPC,1,"01",2,2023-11-28 14:40:06.910,2023-11-28 14:40:11.920
+tesla_sensor,model_Y,tesla_recipe.853,Tires,TPC,1,"01",3,2023-11-28 14:40:11.920,2023-11-28 14:40:21.930
+tesla_sensor,model_Y,tesla_recipe.853,Tires,TPC,1,"01",4,2023-11-28 14:40:21.930,2023-11-28 14:40:22.970
+tesla_sensor,model_Y,tesla_recipe.853,Tires,TPC,1,"01",5,2023-11-28 14:40:22.970,2023-11-28 14:40:23.980
+tesla_sensor,model_Y,tesla_recipe.853,Tires,TPC,1,"01",6,2023-11-28 14:40:23.980,2023-11-28 14:41:30.220
+tesla_sensor,model_Y,tesla_recipe.853,Tires,TPC,1,"01",7,2023-11-28 14:41:30.220,2023-11-28 14:41:31.270
+tesla_sensor,model_Y,tesla_recipe.853,Tires,TPC,1,"01",8,2023-11-28 14:41:31.270,2023-11-28 14:41:36.280
+tesla_sensor,model_Y,tesla_recipe.853,Tires,TPC,1,"01",9,2023-11-28 14:41:36.280,2023-11-28 14:41:39.510
+tesla_sensor,model_Y,tesla_recipe.853,Tires,TPC,1,"01",10,2023-11-28 14:41:39.510,2023-11-28 14:41:49.520
+tesla_sensor,model_Y,tesla_recipe.854,Tires,TPC,3,"03",1,2023-11-28 14:44:11.100,2023-11-28 14:44:18.150
+tesla_sensor,model_Y,tesla_recipe.854,Tires,TPC,3,"03",2,2023-11-28 14:44:18.150,2023-11-28 14:44:23.160
+tesla_sensor,model_Y,tesla_recipe.854,Tires,TPC,3,"03",3,2023-11-28 14:44:23.160,2023-11-28 14:44:33.170
+tesla_sensor,model_Y,tesla_recipe.854,Tires,TPC,3,"03",4,2023-11-28 14:44:33.170,2023-11-28 14:44:34.210
+tesla_sensor,model_Y,tesla_recipe.854,Tires,TPC,3,"03",5,2023-11-28 14:44:34.210,2023-11-28 14:44:35.220
+tesla_sensor,model_Y,tesla_recipe.854,Tires,TPC,3,"03",6,2023-11-28 14:44:35.220,2023-11-28 14:45:41.460
+tesla_sensor,model_Y,tesla_recipe.854,Tires,TPC,3,"03",7,2023-11-28 14:45:41.460,2023-11-28 14:45:42.510
+tesla_sensor,model_Y,tesla_recipe.854,Tires,TPC,3,"03",8,2023-11-28 14:45:42.510,2023-11-28 14:45:47.520
+tesla_sensor,model_Y,tesla_recipe.854,Tires,TPC,3,"03",9,2023-11-28 14:45:47.520,2023-11-28 14:45:50.750
+tesla_sensor,model_Y,tesla_recipe.854,Tires,TPC,3,"03",10,2023-11-28 14:45:50.750,2023-11-28 14:46:00.760
+tesla_sensor,model_3,tesla_recipe.123,Battery,CHAdeMo,3,"03",3,2024-01-04 13:53:28.230,2024-01-04 13:53:38.240
+tesla_sensor,model_Y,tesla_recipe.851,Suspension,CCS1,1,"01",1,2023-11-28 11:45:54.370,2023-11-28 11:46:01.420
+tesla_sensor,model_Y,tesla_recipe.851,Suspension,CCS1,1,"01",2,2023-11-28 11:46:01.420,2023-11-28 11:46:06.430
+tesla_sensor,model_Y,tesla_recipe.851,Suspension,CCS1,1,"01",3,2023-11-28 11:46:06.430,2023-11-28 11:46:16.440
+tesla_sensor,model_Y,tesla_recipe.851,Suspension,CCS1,1,"01",4,2023-11-28 11:46:16.440,2023-11-28 11:46:17.500
+tesla_sensor,model_Y,tesla_recipe.851,Suspension,CCS1,1,"01",5,2023-11-28 11:46:17.500,2023-11-28 11:46:18.510
+tesla_sensor,model_Y,tesla_recipe.851,Suspension,CCS1,1,"01",6,2023-11-28 11:46:18.510,2023-11-28 11:47:18.550
+tesla_sensor,model_Y,tesla_recipe.851,Suspension,CCS1,3,"03",2,2023-11-28 11:49:56.710,2023-11-28 11:50:01.720
+tesla_sensor,model_Y,tesla_recipe.851,Suspension,CCS1,3,"03",3,2023-11-28 11:50:01.720,2023-11-28 11:50:11.730
+tesla_sensor,model_Y,tesla_recipe.851,Suspension,CCS1,3,"03",4,2023-11-28 11:50:11.730,2023-11-28 11:50:12.770
+tesla_sensor,model_Y,tesla_recipe.851,Suspension,CCS1,3,"03",5,2023-11-28 11:50:12.770,2023-11-28 11:50:13.780

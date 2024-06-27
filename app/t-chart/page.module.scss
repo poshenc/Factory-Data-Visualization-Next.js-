@@ -1,0 +1,39 @@
+.temp {
+    position: absolute;
+    top: 30px;
+}
+
+.content-wrapper {
+    display: grid;
+    grid-template-columns: 350px auto;
+    gap: 30px;
+}
+
+.vs {
+    font-family: "NotoSansTC-Bold";
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto 20px;
+}
+
+.right-content {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.info-block {
+    display: flex;
+}
+
+.tChart {
+    padding: 0.5rem 0 0;
+    height: 100%;
+    position: relative;
+}
+
+.actions-container {
+    display: flex;
+    justify-content: space-between;
+}

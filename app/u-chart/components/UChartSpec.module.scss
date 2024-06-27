@@ -1,0 +1,44 @@
+.container {
+    display: grid;
+    grid-template-columns: 210px 1fr 1fr;
+    column-gap: 15px;
+    height: 14rem;
+}
+
+.left-content {
+    border: 0.125rem solid #04203c;
+    border-radius: 0.3125rem;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+
+}
+
+.module-option {
+    display: flex;
+    justify-content: center;
+    border: 0.125rem solid #04203c;
+    border-radius: 0.3125rem;
+    margin-bottom: 0.5rem;
+    padding: 0.5rem 0;
+    font-weight: 700;
+    cursor: pointer;
+}
+
+.module-option:hover {
+    background-color: rgba(0, 0, 0, 0.04);
+}
+
+.right-content {
+    border: 0.125rem solid #04203c;
+    border-radius: 0.3125rem;
+    padding: 10px;
+
+    .stat-container {
+        display: grid;
+        flex-direction: column;
+        grid-template-columns: auto 1fr 1fr;
+        gap: 10px;
+    }
+}

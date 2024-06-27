@@ -1,0 +1,35 @@
+.monitor-container {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 15px;
+}
+
+.executor-container {
+    position: absolute;
+    display: grid;
+    grid-template-columns: 100px 70px 70px;
+    top: 16px;
+    left: 180px;
+
+    button {
+        font-size: 1rem;
+        padding: 1px 5px 3px;
+        border: 0.12rem solid #04203c;
+        border-radius: 0.3125rem;
+        width: 60px;
+    }
+}
+
+.running {
+    width: fit-content;
+    padding: 1px 5px 3px;
+    background-color: green;
+    color: #fff;
+}
+
+.stopped {
+    width: fit-content;
+    padding: 1px 5px 3px;
+    background-color: red;
+    color: #fff;
+}

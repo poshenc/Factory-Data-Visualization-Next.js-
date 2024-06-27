@@ -1,0 +1,41 @@
+.input {
+    position: relative;
+    margin-bottom: 2.5rem;
+
+    label {
+        font-size: 1.125rem;
+        font-family: NotoSansTC-Bold;
+        display: block;
+        margin-bottom: 1rem;
+        line-height: 1.6875rem;
+        width: fit-content;
+    }
+
+    input {
+        font-size: 1rem;
+        font-family: "NotoSansTC-Regular";
+        width: 100%;
+        padding: 0.6875rem 0.875rem;
+        border: 0.125rem solid #04203c;
+        border-radius: 0.3125rem;
+        box-sizing: border-box;
+    }
+}
+
+.error-message {
+    color: red;
+    font-size: 0.875rem;
+    position: absolute;
+}
+
+.eye-icon {
+    position: absolute;
+    cursor: pointer;
+    right: 1rem;
+    top: 3.5rem;
+}
+
+.asterisk {
+    margin-left: 0.25rem;
+    color: red;
+}

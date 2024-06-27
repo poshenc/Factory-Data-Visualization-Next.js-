@@ -1,0 +1,47 @@
+services:
+  server:
+    image: tesla
+    # build:
+    #   context: .
+    environment:
+      NODE_ENV: production
+      DATABASE_URL: postgresql://postgres:postgres@db:5432/postgres
+      # for scheduled job execution
+      JOB_INTERVAL_MINUTES: 5
+      JOB_DELAY_MINUTES: 1
+      # for postgres_fdw
+      FDW_SERVER_NAME: pg59_edpms
+      FDW_HOST: 192.168.100.59
+      FDW_DBNAME: EDPMS
+      FDW_PORT: 5432
+      FDW_USER: postgres
+      FDW_PASSWORD: postgres
+      SCHEMA_NAME: public
+    ports:
+      - "4200:4200"
+    volumes:
+      - ./logs:/app/logs
+    # start the database before application
+    depends_on:
+      db:
+        condition: service_healthy
+
+  db:
+    image: postgres:15-alpine
+    restart: always
+    user: postgres
+    volumes:
+      - db-data:/var/lib/postgresql/data
+    environment:
+      - POSTGRES_DB=postgres
+      - POSTGRES_PASSWORD=postgres
+    ports:
+      - "5432:5432"
+    healthcheck:
+      test: [ "CMD", "pg_isready" ]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+volumes:
+  db-data:
+

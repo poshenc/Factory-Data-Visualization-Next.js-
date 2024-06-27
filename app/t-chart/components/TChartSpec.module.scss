@@ -1,0 +1,17 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+}
+
+.checkbox1-wrapper-expanded {
+    height: calc(100vh - 480px);
+}
+
+.checkbox1-wrapper-shrunk {
+    height: calc(100vh - 570px);
+}
+
+.checkbox2-wrapper {
+    height: 265px;
+}

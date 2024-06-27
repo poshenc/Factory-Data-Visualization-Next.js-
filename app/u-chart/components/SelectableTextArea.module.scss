@@ -1,0 +1,25 @@
+.container {
+    position: relative;
+
+    .label {
+        border-radius: 0.3125rem;
+        padding: 8px 45px 8px 12px;
+        font-size: 14px;
+        font-family: NotoSansTC-Medium;
+        color: white;
+    }
+
+    .button {
+        position: absolute;
+        top: 0.25rem;
+        right: 0.4rem;
+    }
+}
+
+.label-purple {
+    background-color: rgb(135 90 133);
+}
+
+.label-green {
+    background-color: rgb(101 183 145);
+}

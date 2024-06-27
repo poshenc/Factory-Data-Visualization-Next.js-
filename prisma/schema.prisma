@@ -1,0 +1,102 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model ods_equevtlog {
+  time         DateTime? @db.Timestamp(6)
+  toolid       String?   @db.VarChar(32)
+  moduleid     String?   @db.VarChar(32)
+  type         String?   @db.Char(1)
+  event        String?   @db.VarChar(32)
+  action       String?   @db.VarChar(32)
+  caller       String?   @db.VarChar(32)
+  recipeid     String?   @db.VarChar(80)
+  recipestepno Int?
+  acttime      Int?
+  lotid        String?   @db.VarChar(80)
+  carrierid    String?   @db.VarChar(80)
+  slotno       Int?
+  waferid      String?   @db.VarChar(80)
+  message      String?   @db.VarChar(80)
+  uuid         String    @id(map: "ods_equevtlog_pk") @db.Uuid
+}
+
+model ods_tracelog {
+  time      DateTime? @db.Timestamp(6)
+  toolid    String?   @db.VarChar(32)
+  moduleid  String?   @db.VarChar(32)
+  uuid      String    @id(map: "ods_tracelog_new_pk") @db.Uuid
+  altitude  Float?    @db.Real
+  sound     Float?    @db.Real
+  light     Float?    @db.Real
+  vibration Float?    @db.Real
+  speed     Float?    @db.Real
+}
+
+model wafer_process_info {
+  toolid    String    @db.VarChar(32)
+  moduleid  String    @db.VarChar(32)
+  recipeid  String    @db.VarChar(80)
+  lotid     String    @db.VarChar(80)
+  carrierid String    @db.VarChar(80)
+  slotno    Int
+  waferid   String    @db.VarChar(80)
+  sdate     DateTime? @db.Timestamp(6)
+  edate     DateTime? @db.Timestamp(6)
+
+  @@id([toolid, moduleid, recipeid, lotid, carrierid, slotno, waferid], map: "pk_wafer_process_info")
+}
+
+model wafer_process_step_info {
+  toolid       String    @db.VarChar(32)
+  moduleid     String    @db.VarChar(32)
+  recipeid     String    @db.VarChar(80)
+  lotid        String    @db.VarChar(80)
+  carrierid    String    @db.VarChar(80)
+  slotno       Int
+  waferid      String    @db.VarChar(80)
+  recipestepno Int
+  sdate        DateTime? @db.Timestamp(6)
+  edate        DateTime? @db.Timestamp(6)
+
+  @@id([toolid, moduleid, recipeid, lotid, carrierid, slotno, waferid, recipestepno], map: "pk_wafer_info")
+}
+
+model wafer_summary {
+  time            DateTime @db.Timestamp(6)
+  toolid          String   @db.VarChar(32)
+  moduleid        String   @db.VarChar(32)
+  recipeid        String   @db.VarChar(80)
+  lotid           String   @db.VarChar(80)
+  carrierid       String   @db.VarChar(80)
+  slotno          Decimal  @db.Decimal
+  waferid         String   @db.VarChar(80)
+  recipestepno    Decimal  @db.Decimal
+  altitude_max    Decimal? @db.Decimal
+  altitude_min    Decimal? @db.Decimal
+  altitude_avg    Decimal? @db.Decimal
+  altitude_range  Decimal? @db.Decimal
+  sound_max       Decimal? @db.Decimal
+  sound_min       Decimal? @db.Decimal
+  sound_avg       Decimal? @db.Decimal
+  sound_range     Decimal? @db.Decimal
+  light_max       Decimal? @db.Decimal
+  light_min       Decimal? @db.Decimal
+  light_avg       Decimal? @db.Decimal
+  light_range     Decimal? @db.Decimal
+  vibration_max   Decimal? @db.Decimal
+  vibration_min   Decimal? @db.Decimal
+  vibration_avg   Decimal? @db.Decimal
+  vibration_range Decimal? @db.Decimal
+  speed_max       Decimal? @db.Decimal
+  speed_min       Decimal? @db.Decimal
+  speed_avg       Decimal? @db.Decimal
+  speed_range     Decimal? @db.Decimal
+
+  @@id([toolid, moduleid, recipeid, lotid, carrierid, slotno, waferid, recipestepno], map: "wafer_summary_new_pk")
+}

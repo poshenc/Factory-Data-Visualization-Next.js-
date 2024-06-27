@@ -1,0 +1,28 @@
+.dropbox-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    border: 1px rgba($color: #04203C, $alpha: 0.2) solid;
+    border-radius: 0.3125rem;
+    height: 10rem;
+    box-sizing: border-box;
+}
+
+.dropbox-container:hover {
+    border: 0.125rem solid #04203c;
+    cursor: pointer;
+}
+
+.border-hover {
+    border: 0.125rem solid #04203c;
+}
+
+.icon {
+    height: 2rem;
+}
+
+.asterisk {
+    margin-left: 0.25rem;
+    color: red;
+}

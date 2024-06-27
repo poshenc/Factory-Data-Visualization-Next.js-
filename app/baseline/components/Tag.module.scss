@@ -1,0 +1,28 @@
+.container {
+    background-color: #04203c;
+    color: #FFFFFF;
+    border-radius: 5px;
+    padding: 4px 8px;
+    font-size: 12px;
+    line-height: 14px;
+    position: relative;
+}
+
+.close-btn {
+    position: absolute;
+    top: -4px;
+    right: -4px;
+    background-color: red;
+    height: 16px;
+    width: 16px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    display: none;
+}
+
+.container:hover .close-btn {
+    display: flex;
+}
