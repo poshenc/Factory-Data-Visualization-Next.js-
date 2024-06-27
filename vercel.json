@@ -1,5 +1,5 @@
 {
-    "functionFailoverRegions": [
+    "regions": [
         "hkg1",
         "sin1",
         "iad1"
