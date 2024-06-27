@@ -2,11 +2,6 @@ import { getActionEvents } from '@/app/be/services/events';
 import { NextRequest, NextResponse } from 'next/server';
 import { GetActionEventsParams } from './request-dto';
 
-export const runtime = 'edge'; // 'nodejs' is the default
-// execute this function on iad1 or hnd1, based on the connecting client location
-export const preferredRegion = ['hkg1', "sin1", "iad1"];
-
-
 export async function GET(req: NextRequest) {
     const params = req.nextUrl.searchParams
 
