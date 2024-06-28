@@ -108,7 +108,7 @@ const ULineChart = ({
         }
 
         return result
-    }, [data.datasets, lower, upper, wafersContext.data.wafers, onResetZoom])
+    }, [data.datasets, lower, upper, wafersContext.data.wafers, onResetZoom, chartRef.current])
 
 
     // chart actions
