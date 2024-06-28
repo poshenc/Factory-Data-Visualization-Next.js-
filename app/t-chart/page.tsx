@@ -48,7 +48,7 @@ export default function Page() {
             const updatedLabels = [...wafersContext.data.labels]
 
             if (tChartSpec.items.length === 0) {
-                return chartData
+                return setLineChartData(chartData)
             }
 
             for (let index = 0; index < wafersContext.data.wafers.length; index++) {
